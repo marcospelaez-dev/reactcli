@@ -4,4 +4,4 @@
 
 ### Aluno Marcos Pelaez.
 
-## Tecnologia - React JS
+## Tecnologia - JavaScript, React JS
